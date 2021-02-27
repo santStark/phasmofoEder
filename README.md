@@ -1,9 +1,10 @@
 # Phasmofo Eder
 
 Um jogo criado em javascript usando a biblioteca Phaser 3, com o intuito de lazer.
+
 O jogo criado tem como inspiração o jogo de computador PHAMOSPHOBIA.
 
-## Instalação
+# Instalação
 
 - Faça uma copia do diretorio git
 - Entre na pasta principal
