@@ -1,0 +1,15 @@
+{
+  "name": "phasmofoeder",
+  "version": "1.0.0",
+  "description": "Jogo em javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Guilherme Santiago",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
