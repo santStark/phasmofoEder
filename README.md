@@ -2,7 +2,7 @@
 
 Um jogo criado em javascript usando a biblioteca Phaser 3, com o intuito de lazer.
 
-O jogo criado tem como inspiração o jogo de computador PHAMOSPHOBIA.
+O jogo criado tem como inspiração o jogo de computador PHASMOPHOBIA.
 
 # Instalação
 
